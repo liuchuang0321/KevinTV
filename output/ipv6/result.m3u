@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/liuchuang0321/KevinTV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="# 测试用频道列表.png" group-title="🕘️更新时间",2026-04-02 02:06:50
+#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="# 测试用频道列表.png" group-title="🕘️更新时间",2026-04-05 01:50:02
 http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
@@ -5757,6 +5757,8 @@ https://t.freetv.fun/live/jing-tian-zi-xun-11.m3u8
 https://t.freetv.fun/live/jing-tian-zi-xun-8.m3u8
 #EXTINF:-1 tvg-name="靖天资讯" tvg-logo="靖天资讯.png" group-title="🌊港·澳·台",靖天资讯
 https://t.freetv.fun/live/jing-tian-zi-xun-9.m3u8
+#EXTINF:-1 tvg-name="靖天资讯" tvg-logo="靖天资讯.png" group-title="🌊港·澳·台",靖天资讯
+https://t.freetv.fun/live/jing-tian-zi-xun.php
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://z.b.bkpcp.top/m.php?id=jtyy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
@@ -5885,6 +5887,8 @@ https://tv.iill.top/x/wldy
 https://hls.iill.top/api/wldy/index.m3u8
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="纬来电影.png" group-title="🎬电影频道",纬来电影
 https://t.freetv.fun/live/wei-lai-dian-ying-1.php
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="纬来电影.png" group-title="🎬电影频道",纬来电影
+https://t.freetv.fun/live/wei-lai-dian-ying.php
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="靖天映画.png" group-title="🎬电影频道",靖天映画
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="靖天映画.png" group-title="🎬电影频道",靖天映画
@@ -5917,6 +5921,8 @@ https://t.freetv.fun/live/jing-tian-xi-ju-8.m3u8
 https://t.freetv.fun/live/jing-tian-xi-ju-9.m3u8
 #EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="靖天戏剧.png" group-title="🎬电影频道",靖天戏剧
 https://cdn12.178.indevs.in/163189/177d541552f78003
+#EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="靖天戏剧.png" group-title="🎬电影频道",靖天戏剧
+https://t.freetv.fun/live/jing-tian-xi-ju-1.php
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="🎬电影频道",经典电影
 https://yylunbo.ottiptv.cc/yy/1414812324
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="🎬电影频道",经典电影
