@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/liuchuang0321/KevinTV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="# 测试用频道列表.png" group-title="🕘️更新时间",2026-08-11 02:41:43
+#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="# 测试用频道列表.png" group-title="🕘️更新时间",2026-08-14 02:32:02
 http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
@@ -755,6 +755,8 @@ http://iptv.666230.xyz/iptv/jsyd.php/G_DIYIJC-CQ
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="第一剧场.png" group-title="💰央视付费频道",第一剧场
 https://t.freetv.fun/live/cctvdi-yi-ju-chang.m3u8
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="第一剧场.png" group-title="💰央视付费频道",第一剧场
+https://ed6e-f4b7-af48-6d55.kylintv.tv/live/chinamovie_iphone.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="风云剧场.png" group-title="💰央视付费频道",风云剧场
 https://hls-gateway.vpstv.net/streams/708861.m3u8
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="风云剧场.png" group-title="💰央视付费频道",风云剧场
@@ -5929,6 +5931,8 @@ https://t.freetv.fun/live/jing-tian-zi-xun-1.php
 https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv065&token=https://t.me/GPT_858
 #EXTINF:-1 tvg-name="靖天资讯" tvg-logo="靖天资讯.png" group-title="🌊港·澳·台",靖天资讯
 https://t.freetv.fun/live/jing-tian-zi-xun.m3u8
+#EXTINF:-1 tvg-name="靖天资讯" tvg-logo="靖天资讯.png" group-title="🌊港·澳·台",靖天资讯
+http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://z.b.bkpcp.top/m.php?id=jtyy
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
@@ -6107,6 +6111,8 @@ https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055
 https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="靖天映画.png" group-title="🎬电影频道",靖天映画
 https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
+#EXTINF:-1 tvg-name="靖天映画" tvg-logo="靖天映画.png" group-title="🎬电影频道",靖天映画
+http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="靖天戏剧.png" group-title="🎬电影频道",靖天戏剧
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 #EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="靖天戏剧.png" group-title="🎬电影频道",靖天戏剧
@@ -6133,6 +6139,8 @@ https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv058&token=https://t.me/GPT_858
 https://t.freetv.fun/live/jing-tian-xi-ju-1.m3u8
 #EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="靖天戏剧.png" group-title="🎬电影频道",靖天戏剧
 https://t.freetv.fun/live/jing-tian-xi-ju.m3u8
+#EXTINF:-1 tvg-name="靖天戏剧" tvg-logo="靖天戏剧.png" group-title="🎬电影频道",靖天戏剧
+http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="🎬电影频道",经典电影
 https://yylunbo.ottiptv.cc/yy/1414812324
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="经典电影.png" group-title="🎬电影频道",经典电影
